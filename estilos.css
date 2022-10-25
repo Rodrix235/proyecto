@@ -25,3 +25,34 @@ a:hover{
 }
 #FIREWATCH{color: goldenrod; text-shadow: 2px 2px rgb(98, 33, 0);}
 #INSCRYPTION{color: black; text-shadow: 2px 2px yellow;}
+
+.gif{
+    
+    width: 30%;
+    
+}
+#gif1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#gif2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+#gif3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+#gif4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
