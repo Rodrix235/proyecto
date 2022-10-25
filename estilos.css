@@ -1,0 +1,27 @@
+* {text-align: center;}
+#TITULO{text-shadow: 2px 2px red; line-height: 1; text-align: center; font-size: 150px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.letraSans{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{color:goldenrod;}
+img{width: 55%;}
+#FNAF{
+    color: red;
+}
+p{
+   padding-left: 10%; padding-right: 10%; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Luc margin: 0; ida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{line-height: 1; font-size: 30px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+body {
+    background-color: lightblue;
+  }
+a{font-size: 20px; text-decoration: none; color:black}
+h2{line-height: 1;}
+#rodrigo{text-shadow: 1px 1px green; color:darkolivegreen; font-size: 40; line-height: 2;}
+.metacritic{background-color: rgb(63, 226, 76); padding-top: 20px; padding-bottom: 20px; text-align: center;}
+a:hover{
+    color: blue;
+}
+#FIREWATCH{color: goldenrod; text-shadow: 2px 2px rgb(98, 33, 0);}
+#INSCRYPTION{color: black; text-shadow: 2px 2px yellow;}
