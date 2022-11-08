@@ -1,5 +1,5 @@
 * {text-align: center;}
-#TITULO{text-shadow: 2px 2px red; line-height: 1; text-align: center; font-size: 150px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#TITULO{text-shadow: 3px 3px rgb(167, 0, 0); line-height: 1; text-align: center; font-size: 150px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
 .letraSans{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -8,6 +8,7 @@ h1{color:goldenrod;}
 img{width: 55%;}
 #FNAF{
     color: red;
+    text-decoration: underline;
 }
 p{
    padding-left: 10%; padding-right: 10%; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Luc margin: 0; ida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -18,13 +19,16 @@ body {
   }
 a{font-size: 20px; text-decoration: none; color:black}
 h2{line-height: 1;}
-#rodrigo{text-shadow: 1px 1px green; color:darkolivegreen; font-size: 40; line-height: 2;}
+#rodrigo{text-shadow: 1px 1px green; color:darkolivegreen; font-size: 50px; line-height: 1;}
 .metacritic{background-color: rgb(63, 226, 76); padding-top: 20px; padding-bottom: 20px; text-align: center;}
 a:hover{
     color: blue;
 }
 #FIREWATCH{color: goldenrod; text-shadow: 2px 2px rgb(98, 33, 0);}
 #INSCRYPTION{color: black; text-shadow: 2px 2px yellow;}
+#TheStanleyParable{color: rgb(255, 255, 255); text-shadow: 2px 2px black;}
+#roboquest{color: yellow; text-shadow: 0px 0px 10px darkcyan;}
+#UNDERTALELETRA{color: rgb(255, 0, 0); text-shadow: 0px 0px 5px red;}
 
 .gif{
     
@@ -41,6 +45,15 @@ a:hover{
     display: flex;
     flex-direction: row;
     justify-content: center;
+}
+
+#INDICE{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 25px;
+    line-height: 2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
